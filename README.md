@@ -1,11 +1,11 @@
-## Hello 🙋🏻‍♂️
-My name is Murilo. I am 18 years old and I am from Santa Maria, Rio Grande do Sul, Brazil.
-I am currently studying a Technical Course in Internet Informatics at Colégio Politécnico of the Federal University of Santa Maria (UFSM).
+## Olá 🙋🏻‍♂️
+Meu nome é Murilo. Tenho 18 anos e sou de Santa Maria, Rio Grande do Sul, Brasil.
+Atualmente estou cursando Técnico em Informática para Internet no Colégio Politécnico da Universidade Federal de Santa Maria (UFSM).
 
-## 📝 What are your hobbies?
+## 📝 Quais são meus hobbies?
 
-- ⚽ Practicing sports
-- 🎮 Playing games
-- 🎧 Listening to music
-- 💻 Learning new things about technology
-- 🎬 Watching movies and series
+- ⚽ Praticar esportes
+- 🎮 Jogar games
+- 🎧 Ouvir música
+- 💻 Aprender coisas novas sobre tecnologia
+- 🎬 Assistir filmes e séries
